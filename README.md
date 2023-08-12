@@ -1,2 +1,2 @@
 # getUserTokenPCF
-GetUserTi=oken PCF
+Get user token in power apps using pcf componenet and graph toolkit
